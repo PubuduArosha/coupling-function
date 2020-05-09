@@ -1,0 +1,54 @@
+NDM Laptop issues NameList
+
+1.	IT18144468 Hennayaka.h.m.h.h
+2.	IT18085822 Weerasooriya W.K.M
+3.	IT18159172 Ariyarathna K.P.W 
+4.	IT18025668 Ashani Malsha N.P.G.
+5.	IT18088656 Pathumika R.M
+6.	IT18006858 Salay M S
+7.	IT18078206 Amanda Hemantha K.A.D
+8.	IT18108514 Wanigasekara.M.P.W.P.A
+9.	IT18119268 Kalupahana D.H
+10.	IT 16143982 K.P IHALAPATHIRANA
+11.	IT18050622 KV Weragoda
+12.	IT18027952 U.A.K.Gimhana
+13.	IT18020168 Nadeesha
+14.	IT18118278 Weerasinghe L.A.I.S.
+15.	IT17170062 R.M.C.H Rathnayaka
+16.	IT18194722 Jayawardhana P D G P
+17.	IT17370974 Aththanayake K.A.R.N.
+18.	IT17057820 K.D.Malsha Kavini Ranasinghe
+19.	IT18156898 N.N.Qamra
+20.	IT18148282 Gunasekera P.N.G.
+21.	IT16090804 MDRT Gunawardhana
+22.	IT18500790 Mihiranga G.L.V
+23.	IT18118728 Fernando P.I.S.P
+24.	IT18007466 Rathnappuli K.R
+25.	IT18122992 H.L.D Ishara.
+26.	IT18060386 Amarasinghe B.Y.S
+27.	IT18078206 Amanda Hemantha K.A.D
+28.	IT17001762  Rajapaksha I.S
+29.	IT18144604 Munasinghe M G S M
+30.	IT18061130 W.S.K.Mendis
+31.	IT18076080 Vethakulan.A
+32.	IT16012202 L.L.C Niroshana
+33.	IT18187588 Jayasinghe J.M.H.N
+34.	IT18081244 Diyamullage D.D.D.D
+35.	IT18082548 Madhushani S.K.A.K.I
+36.	IT18122206 P.S.D.Perera
+37.	IT18081794 Herath H.M.D.N
+38.	IT18175080 R.m bawantha thilan
+39.	IT18015768 Hasini Alwis
+40.	IT18122992 H.L.D Ishara
+41.	IT18007466 Rathnappuli K.R
+42.	IT18042870 U.C.D.Pathamakulasooriya 
+43.	IT18143478 Pramoda Sandarenu 
+44.	IT18160444 W.A.P.T.Jayawardhana 
+45.	IT18143300 Thudawehewa H.R. 
+46.	IT18085754 G.C. wellehewa 
+47.	It18110494 Yatagama H C
+48.	IT18003406 M. F. Mohamed
+49.	IT18125108 Thivyaroopy.S
+50.     IT17059428 Amarasinghe A.A.S.M
+51.     IT18180480 YAPA.Y.M.T.S
+52.	IT18136852 Senadeera S.A.K.U
