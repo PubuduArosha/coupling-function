@@ -5,9 +5,10 @@ projects. The primary objective of CDE IT solutions is to build quality software
 group is working for CDE IT solutions. In an attempt to reduce the maintenance cost of the software developed by the company,
 the CEO has requested your group to develop a web-based code complexity measuring tool. Accordingly, he wants to
 measure the complexity introduced due to the following factors:
+
   a. Size, variables, and methods
   b. Inheritance
-  ##c. Coupling
+  ##  c. Coupling
   d. Control structures
 
 
